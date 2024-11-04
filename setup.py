@@ -21,8 +21,7 @@ setup(
     entry_points={
         'console_scripts': [
             'talkerNode = talker_listner.talker_node:main',
-            'listnerNode = talker_listner.listner_node:main'
-            
+            'listnerNode = talker_listner.listner_node:main'  
         ],
     },
 )

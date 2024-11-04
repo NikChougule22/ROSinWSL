@@ -1,0 +1,25 @@
+[0.464s] Invoking command in '/home/nchougul/ros2_ws/src/talker_listner': PYTHONPATH=/home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/talker_listner build --build-base /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build install --record /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/install.log --single-version-externally-managed install_data
+[0.612s] running egg_info
+[0.612s] writing build/talker_listner/talker_listner.egg-info/PKG-INFO
+[0.620s] writing dependency_links to build/talker_listner/talker_listner.egg-info/dependency_links.txt
+[0.620s] writing entry points to build/talker_listner/talker_listner.egg-info/entry_points.txt
+[0.620s] writing requirements to build/talker_listner/talker_listner.egg-info/requires.txt
+[0.620s] writing top-level names to build/talker_listner/talker_listner.egg-info/top_level.txt
+[0.622s] reading manifest file 'build/talker_listner/talker_listner.egg-info/SOURCES.txt'
+[0.623s] writing manifest file 'build/talker_listner/talker_listner.egg-info/SOURCES.txt'
+[0.623s] running build
+[0.623s] running build_py
+[0.623s] copying talker_listner/listner_node.py -> /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build/lib/talker_listner
+[0.624s] running install
+[0.625s] running install_lib
+[0.625s] copying /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build/lib/talker_listner/listner_node.py -> /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner
+[0.626s] byte-compiling /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner/listner_node.py to listner_node.cpython-310.pyc
+[0.627s] running install_data
+[0.627s] running install_egg_info
+[0.629s] removing '/home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner-0.0.0-py3.10.egg-info' (and everything under it)
+[0.629s] Copying build/talker_listner/talker_listner.egg-info to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner-0.0.0-py3.10.egg-info
+[0.632s] running install_scripts
+[0.647s] Installing listnerNode script to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/talker_listner
+[0.647s] Installing talkerNode script to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/talker_listner
+[0.648s] writing list of installed files to '/home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/install.log'
+[0.664s] Invoked command in '/home/nchougul/ros2_ws/src/talker_listner' returned '0': PYTHONPATH=/home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/talker_listner build --build-base /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build install --record /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/install.log --single-version-externally-managed install_data

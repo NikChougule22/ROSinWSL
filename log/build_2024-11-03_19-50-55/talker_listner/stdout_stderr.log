@@ -1,0 +1,23 @@
+running egg_info
+writing build/talker_listner/talker_listner.egg-info/PKG-INFO
+writing dependency_links to build/talker_listner/talker_listner.egg-info/dependency_links.txt
+writing entry points to build/talker_listner/talker_listner.egg-info/entry_points.txt
+writing requirements to build/talker_listner/talker_listner.egg-info/requires.txt
+writing top-level names to build/talker_listner/talker_listner.egg-info/top_level.txt
+reading manifest file 'build/talker_listner/talker_listner.egg-info/SOURCES.txt'
+writing manifest file 'build/talker_listner/talker_listner.egg-info/SOURCES.txt'
+running build
+running build_py
+copying talker_listner/listner_node.py -> /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build/lib/talker_listner
+running install
+running install_lib
+copying /home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/build/lib/talker_listner/listner_node.py -> /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner
+byte-compiling /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner/listner_node.py to listner_node.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner-0.0.0-py3.10.egg-info' (and everything under it)
+Copying build/talker_listner/talker_listner.egg-info to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/python3.10/site-packages/talker_listner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing listnerNode script to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/talker_listner
+Installing talkerNode script to /home/nchougul/ros2_ws/src/talker_listner/install/talker_listner/lib/talker_listner
+writing list of installed files to '/home/nchougul/ros2_ws/src/talker_listner/build/talker_listner/install.log'

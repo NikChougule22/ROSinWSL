@@ -1,0 +1,4 @@
+[console_scripts]
+listnerNode = talker_listner.listner_node:main
+talkerNode = talker_listner.talker_node:main
+
