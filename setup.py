@@ -20,7 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'talkerNode = talker_listner.talker_node:main'
+            'talkerNode = talker_listner.talker_node:main',
             'listnerNode = talker_listner.listner_node:main'
             
         ],
